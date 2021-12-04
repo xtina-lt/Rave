@@ -17,6 +17,9 @@ body{
 h1{
     font-size: 1000%;
 }
+h2{
+    font-size: 200%;
+}
 #colorName{
     font-size: 500%;
 }
